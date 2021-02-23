@@ -1,6 +1,3 @@
 [submodule "working_villages"]
 	path = working_villages
 	url = https://github.com/theFox6/working_villages.git
-[submodule "advanced_npc"]
-	path = advanced_npc
-	url = https://github.com/hkzorman/advanced_npc.git
