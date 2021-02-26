@@ -1,3 +1,6 @@
 [submodule "working_villages"]
 	path = working_villages
 	url = https://github.com/theFox6/working_villages.git
+[submodule "mobf_trader"]
+	path = mobf_trader
+	url = https://github.com/Sokomine/mobf_trader.git
